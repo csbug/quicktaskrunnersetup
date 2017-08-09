@@ -1,0 +1,15 @@
+{
+  "name": "csbug-web-creation",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest"
+  },
+  "dependencies": {
+    
+  }
+}
